@@ -1,0 +1,31 @@
+[33mcommit 2c1d402bf9fb4b68b59d2a371d99d4f1b6485e1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ADNANE-RBT <92606656+ADNANE-RBT@users.noreply.github.com>
+Date:   Fri Oct 20 14:42:04 2023 +0100
+
+    finshed the home page
+    
+    still have some work to do and refactoring the code, but for now, in the context of releasing an mvp and the lack of time, we will work with this for now and refactor later
+
+[33mcommit 3442c121363c0300e4ce44f1911c4f19ff596caf[m
+Author: ADNANE-RBT <92606656+ADNANE-RBT@users.noreply.github.com>
+Date:   Fri Oct 20 11:20:51 2023 +0100
+
+    third section done
+
+[33mcommit 7f5e8c1534c902a59089977b4589f89d3d249a80[m
+Author: ADNANE-RBT <92606656+ADNANE-RBT@users.noreply.github.com>
+Date:   Fri Oct 20 01:18:15 2023 +0100
+
+    second section done
+
+[33mcommit caabe6985e32f6105612a90bb21a91f9a2d2660a[m
+Author: ADNANE-RBT <92606656+ADNANE-RBT@users.noreply.github.com>
+Date:   Fri Oct 20 00:31:24 2023 +0100
+
+    first section done witht the landing page
+
+[33mcommit 7523e2356df2c5fa942234984f42656a461a432e[m
+Author: ADNANE-RBT <92606656+ADNANE-RBT@users.noreply.github.com>
+Date:   Wed Oct 18 19:39:41 2023 +0100
+
+    first commit
