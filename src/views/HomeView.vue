@@ -187,23 +187,247 @@
 
       </div>
     </section>
+    <!-- fourth section -->
+    <section class=" w-full  my-12 px-24"> 
+      <h2 class="mb-10 text-3xl font-bold text-main  py-2 pr-5 "> As an <span class="italic ">AISD</span> student, you will take courses like :</h2>
+      <div class=" w-full grid grid-cols-2 gap-x-6 ">
+        <div class="w-full flex flex-col space-y-4">
+  <accordioncomp class="mb-4 w-full bg-slate-100 shadow-xl rounded-lg">
+  <template v-slot:title >
+             <span class="font-semibold text-xl">Semester 1</span>
+          </template>
+          <template v-slot:content>
+            <ul class="max-w-md space-y-1 text-gray-500 pl-4 list-image-[url(checkmark.png)] list-inside">
+              <li class="flex items-start">
+  
+        <span class="font-semibold text-gray-900 whitespace-pre">M116 : </span> THÉORIES ET SYSTÈMES DE RAISONNEMENTS INTELLIGENTS
+ 
+</li>
 
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M111 :</span> MATHEMATIQUES POUR ANALYSE DE DONNEES
 
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M112 :</span> PROGRAMMATION AVANCEE
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M113 :</span> BASES DE DONNEES AVANCEES
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M114 :</span> MACHINE LEARNING 1
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M115 :</span> ANGLAIS ET TECHNIQUE D’EXPRESSION
+
+</li>
+            </ul>
+          </template>
+  </accordioncomp>
+
+  <accordioncomp class="mb-8 w-full bg-slate-100 shadow-xl rounded-lg">
+  <template v-slot:title >
+             <span class="font-semibold text-xl">Semester 3</span>
+          </template>
+          <template v-slot:content>
+            <ul class="max-w-md space-y-1 text-gray-500 list-inside pl-4 ">
+              <li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M232 :</span> MULTIMEDIA MINING AND INDEXING
+ 
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M231 :</span> MACHINE LEARNING 2 : DEEP and TRANSFERT LEARNING
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M233 :</span> DATA SPACES & DATA INTEGRATION & SEMANTIC INTEROPERABILITY
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M234 :</span> BLOCKCHAIN & SECURITE APPLICATIVE
+ 
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M236 :</span> VIRTUALIZATION, CLOUD AND EDGE COMPUTING
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M235 :</span> DIGITAL BUSINESS STRATEGIES AND LEADERSHIP IN THE AGE OF AI
+  
+</li>
+            </ul>
+          </template>
+  </accordioncomp>
+</div>
+   <div class="w-full flex flex-col space-y-4">
+  <accordioncomp class="mb-4 w-full bg-slate-100 shadow-xl rounded-lg">
+  <template v-slot:title >
+             <span class="font-semibold text-xl">Semester 2</span>
+          </template>
+          <template v-slot:content>
+            <ul class="max-w-md space-y-1 text-gray-500 list-inside pl-4 ">
+              <li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M121 :</span> INFRASTRUCTURE ET ARCHITECTURE DES SYSTEMES DISTRIBUES & BIGDATA
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M122 :</span> PLATEFORMES IOT CORE: TECHNOLOGIES, DATA ET IA
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M123 :</span> METAHEURISTIQUES & ALGORITHMES DE RECHERCHE STOCHASTIQUE
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M126 :</span> SMA & NLP
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M124 :</span> DATAMING & BI
+
+</li>
+
+<li class="flex items-start">
+   
+        <span class="font-semibold text-gray-900 whitespace-pre">M125 :</span> SOFT SKILLS : DEVELOPPEMENT PERSONNEL ET INTELLIGENCE EMOTIONNELLE
+
+</li>
+
+            </ul>
+          </template>
+  </accordioncomp>
+
+  <accordioncomp class="mb-8 w-full bg-slate-100 shadow-xl rounded-lg">
+  <template v-slot:title >
+             <span class="font-semibold text-xl">Semester 4</span>
+          </template>
+          <template v-slot:content>
+            <ul class="max-w-md space-y-1 text-gray-500 list-inside pl-4 ">
+              
+            </ul>
+          </template>
+  </accordioncomp>
+</div>
+
+      </div>
+      
+    
+    </section>
+
+    <!-- fifth section -->
+    <section class=" grid grid-cols-2 w-full my-40">
+      <div class="px-24 h-full flex justify-center items-center">
+        <img src="@/assets/diverse-graduates-throwing-hats-air.png" alt="">
+      </div>
+      <div>
+        <h2 class="mb-2 text-3xl font-semibold text-gray-900 ">Career opportunities: </h2>
+        <p>The application domains related to the field of big data are very diverse: <br>Digital sector, Health and biotechnology, Finance, Marketing, Industry, Robotics, Insurance, Education, ... <br> The available positions are as follows:</p>
+<ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside ">
+  <li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Data Scientist</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Intelligent Software Developer</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">AI Consultant</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">AI Researcher</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Data Architect</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Data Analyst</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Data Scientist in Marketing</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Chatbot Developer</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Computer Vision Specialist</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Machine Learning Specialist</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">AI Security Specialist</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Data Manager in Distributed Architectures</span>
+</li>
+
+<li class="">
+    <span class="font-semibold text-gray-900 whitespace-pre">Big Data Solution Designer</span>
+</li>
+
+</ul>
+      </div>
+    </section>
+    <footercomp></footercomp>
 </template>
 
-<script>
-export default {
-  name: "CentreAlignedWithImage",
-  methods: {
-      // Function to toggle header menu in mobile view.
-      toggleMenu(flag) {
-          let value = document.getElementById("menu");
-          if (flag) {
-              value.classList.remove("hidden");
-          } else {
-              value.classList.add("hidden");
-          }
-      },
-  },
-};
+<script setup >
+import accordioncomp from '../components/Accordion.vue'
+import footercomp from '../components/footer.vue'
+// export default {
+//   name: "CentreAlignedWithImage",
+//   methods: {
+//       // Function to toggle header menu in mobile view.
+//       toggleMenu(flag) {
+//           let value = document.getElementById("menu");
+//           if (flag) {
+//               value.classList.remove("hidden");
+//           } else {
+//               value.classList.add("hidden");
+//           }
+//       },
+//   },
+// };
 </script>
