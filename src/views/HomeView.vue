@@ -100,6 +100,94 @@
       </div>
     </section>
 
+    <!-- third section -->
+    <section class=" mt-30 p-24 2xl:w-9/12 mx-auto"> 
+      <div class=" flex flex-col w-full ">
+        <!-- first row -->
+        <div class=" w-full flex flex-row bg-green-200 ">
+          <div class=" w-2/3">
+            <figure class="relative transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+                <img src="@/assets/Rectangle1.png" alt="" class="w-full h-full">
+              <figcaption class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white w-2/3 text-start">
+                    <h1 class="text-xl  font-semibold tracking-wider">Explore the Program</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                                <p class="text-base tracking-wide text-main">Read more</p>
+                                <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
+                                    <path d="M11.7998 1L18.9998 8.53662L11.7998 16.0732" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M1 8.53662H19" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+              </figcaption>
+            </figure>
+            
+          </div>
+          <div class=" w-1/3 bg-main text-white relative">
+            <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
+                    <h1 class="text-xl  font-semibold tracking-wider">Announcements</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                                <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal ">Read more</p>
+
+                     </div>
+              </div>
+          </div>
+        </div>
+        <!-- second row -->
+        <div class="w-full flex flex-row  ">
+          <div class=" w-1/3">
+            <figure class="relative ">
+              <img src="@/assets/Rectangle3.png" alt="" class="w-full h-full">            
+            
+            <figcaption class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white  text-start">
+                    <h1 class="text-xl  font-semibold tracking-wider">Learning</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                                <p class="text-base tracking-wide text-main">Read more</p>
+                                <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
+                                    <path d="M11.7998 1L18.9998 8.53662L11.7998 16.0732" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M1 8.53662H19" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+              </figcaption>
+             </figure>          
+          </div>
+          <div class=" bg-main text-white w-1/3 relative">
+            <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
+                    <h1 class="text-xl  font-semibold tracking-wider">Events</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                                <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
+                     </div>
+              </div>
+          </div>
+          <div class=" w-1/3">
+               <img src="@/assets/Rectangle2.png" alt="" class=" h-full">            
+          </div>
+        </div>
+        <!-- third row -->
+        <div class="w-full flex flex-row">
+          <div class=" w-1/3 bg-main text-white relative ">
+            <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
+                    <h1 class="text-xl  font-semibold tracking-wider">Meet the class</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                                <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
+                     </div>
+              </div>
+          </div>
+          <div class=" w-2/3">
+            <figure class="relative ">
+                <img class="w-full h-full" src="@/assets/group-happy-young-students-university1.png" alt="image description">
+            </figure>
+            <!-- <img src="@/assets/group-happy-young-students-university 1.png" alt=" " class="w-full h-full"> -->
+          </div>
+          
+        </div>
+
+      </div>
+    </section>
+
 
 </template>
 
