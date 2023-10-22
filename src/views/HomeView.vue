@@ -26,32 +26,32 @@
           <div class="relative sm:w-3/4 md:w-2/3 w-11/12">
             <div class="  bg-main rounded-md py-5 px-7 flex justify-around flex-wrap md:flex-nowrap text-white ">
               <div class=" text-center ">
-                <p class=" text-4xl font-semibold leading-6 text-uppercase"> <span>#</span> 34 </p>
-                <p class=" text-sm font-normal leading-7 tracking-tighter">hey hello there </p>
+                <p class=" text-5xl font-semibold hover:text-indigo-500 leading-6 text-uppercase mb-2"> <span class=" text-4xl hover:text-indigo-500">#</span> 24 </p>
+                <p class=" text-md font-normal leading-7 tracking-tighter"> Courses </p>
 
               </div>
               <svg xmlns="http://www.w3.org/2000/svg" width="2" height="50" viewBox="0 0 39 2909" fill="none">
   <path d="M1 19.4999V2889.5C1 2899.72 9.28273 2908 19.5 2908C29.7173 2908 38 2899.72 38 2889.5V19.5C38 9.28273 29.7173 1 19.5 1C9.28273 1 1 9.28267 1 19.4999Z" fill="white" stroke="white"/>
                </svg>
                <div class=" text-center ">
-                <p class=" text-4xl font-semibold leading-6 text-uppercase"> <span>#</span> 34 </p>
-                <p class=" text-sm font-normal leading-7 tracking-tighter">hey hello there </p>
+                <p class=" text-5xl font-semibold hover:text-indigo-500 leading-6 text-uppercase mb-2"> <span class=" text-4xl hover:text-indigo-500">#</span> 40 </p>
+                <p class=" text-md font-normal leading-7 tracking-tighter">Enrolled Students </p>
 
               </div>
               <svg xmlns="http://www.w3.org/2000/svg" width="2" height="50" viewBox="0 0 39 2909" fill="none">
   <path d="M1 19.4999V2889.5C1 2899.72 9.28273 2908 19.5 2908C29.7173 2908 38 2899.72 38 2889.5V19.5C38 9.28273 29.7173 1 19.5 1C9.28273 1 1 9.28267 1 19.4999Z" fill="white" stroke="white"/>
                </svg>
                <div class=" text-center ">
-                <p class=" text-4xl font-semibold leading-6 text-uppercase"> <span>#</span> 34 </p>
-                <p class=" text-sm font-normal leading-7 tracking-tighter">hey hello there </p>
+                <p class=" text-5xl font-semibold hover:text-indigo-500 leading-6 text-uppercase mb-2"> <span class=" text-4xl hover:text-indigo-500">#</span> 12 </p>
+                <p class=" text-md font-normal leading-7 tracking-tighter">Globale Collaboration </p>
 
               </div>
               <svg xmlns="http://www.w3.org/2000/svg" width="2" height="50" viewBox="0 0 39 2909" fill="none">
   <path d="M1 19.4999V2889.5C1 2899.72 9.28273 2908 19.5 2908C29.7173 2908 38 2899.72 38 2889.5V19.5C38 9.28273 29.7173 1 19.5 1C9.28273 1 1 9.28267 1 19.4999Z" fill="white" stroke="white"/>
                </svg>
                <div class=" text-center ">
-                <p class=" text-4xl font-semibold leading-6 text-uppercase"> <span>#</span> 34 </p>
-                <p class=" text-sm font-normal leading-7 tracking-tighter">hey hello there </p>
+                <p class=" text-5xl font-semibold hover:text-indigo-500 leading-6 text-uppercase mb-2"> <span class=" text-4xl hover:text-indigo-500">#</span> 3 </p>
+                <p class=" text-md font-normal leading-7 tracking-tighter">Ongoing Projects </p>
 
               </div>
              
@@ -66,9 +66,11 @@
         <div class=" w-full md:w-1/3 h-full ">
           <div class=" md:h-3/4 flex flex-nowrap justify-center items-center -space-x-11 ">
             <div class="h-full flex items-end pb-10 z-10 ">
-              <svg xmlns="http://www.w3.org/2000/svg" width="54" height="48" viewBox="0 0 54 48" fill="none">
+              <div class="">
+                <svg xmlns="http://www.w3.org/2000/svg" class=" rounded-full bg-opacity-50 overflow-visible p-3 bg-slate-50 h-20 w-20" width="54" height="48" viewBox="0 0 54 48" fill="none">
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0743 6.60921C20.5153 5.46357 20.755 3.36664 19.6092 1.92561C18.4636 0.484573 16.3667 0.245073 14.9256 1.39074C2.78235 11.0447 0.333313 23.5946 0.333313 37.3333C0.333313 42.8563 4.81048 47.3333 10.3333 47.3333C15.8561 47.3333 20.3333 42.8563 20.3333 37.3333C20.3333 31.8106 15.8561 27.3333 10.3333 27.3333C9.37441 27.3333 8.44705 27.4683 7.56918 27.7203C8.72065 19.2906 11.8579 12.3463 19.0743 6.60921ZM53.6666 37.3333C53.6666 42.8563 49.1896 47.3333 43.6666 47.3333C38.1436 47.3333 33.6666 42.8563 33.6666 37.3333C33.6666 23.5946 36.1157 11.0447 48.259 1.39074C49.7 0.245073 51.797 0.484573 52.9426 1.92561C54.0883 3.36664 53.8486 5.46357 52.4076 6.60921C45.1913 12.3463 42.054 19.2906 40.9026 27.7203C41.7803 27.4683 42.7076 27.3333 43.6666 27.3333C49.1896 27.3333 53.6666 31.8106 53.6666 37.3333Z" fill="#FBFBFB"/>
               </svg>
+              </div>
             </div>
            <div>
            <img src="@/assets/pdirector.jpeg" alt="" class="rounded-full w-56 h-56 ">
@@ -89,11 +91,11 @@
           </div>
           <!-- the paragraph -->
           <div class="w-full px-4 py-5 text-white">
-            <p> <span class="text-black text-lg " >"</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ea beatae illum quidem ipsa asperiores mollitia, odit cupiditate provident, excepturi autem vitae quisquam tenetur quae fuga praesentium doloremque eum ad.
+            <p>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ea beatae illum quidem ipsa asperiores mollitia, odit cupiditate provident, excepturi autem vitae quisquam tenetur quae fuga praesentium doloremque eum ad.
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut quos recusandae quo, mollitia dolor blanditiis corrupti obcaecati architecto pariatur animi omnis nesciunt esse quis, officia doloribus harum, nemo magni accusamus?
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut quos recusandae quo, mollitia dolor blanditiis corrupti obcaecati architecto pariatur animi omnis nesciunt esse quis, officia doloribus harum, nemo magni accusamus?
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut quos recusandae quo, mollitia dolor blanditiis corrupti obcaecati architecto pariatur animi omnis nesciunt esse quis, officia doloribus harum, nemo magni accusamus?
-              <span class="text-black text-lg " >"</span> 
+            
             </p>
           </div>
         </div>
@@ -110,7 +112,9 @@
                 <img src="@/assets/Rectangle1.png" alt="" class="w-full h-full">
               <figcaption class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white w-2/3 text-start">
                     <h1 class="text-xl  font-semibold tracking-wider">Explore the Program</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">
+                      This comprehensive program offers a deep dive into artificial intelligence and applied mathematics, equipping students to tackle complex data challenges. It emphasizes machine learning, data management, and data mining, covering Big Data, knowledge representation, and recent methodologies.
+                    </p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
                                 <p class="text-base tracking-wide text-main">Read more</p>
                                 <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
@@ -125,7 +129,7 @@
           <div class=" w-1/3 bg-main text-white relative">
             <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
                     <h1 class="text-xl  font-semibold tracking-wider">Announcements</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">The master's program regularly announces significant developments, events, and opportunities that enhance the academic journey of its students. These announcements include details about upcoming seminars, workshops, and guest lectures by leading experts in the field of artificial intelligence and data science. </p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
                                 <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal ">Read more</p>
 
@@ -140,8 +144,8 @@
               <img src="@/assets/Rectangle3.png" alt="" class="w-full h-full">            
             
             <figcaption class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white  text-start">
-                    <h1 class="text-xl  font-semibold tracking-wider">Learning</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <h1 class="text-xl  font-semibold tracking-wider">Our Team</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Our dedicated team is composed of seasoned professionals, each bringing their unique set of skills and knowledge to the table. With diverse backgrounds in artificial intelligence, data science, and related fields, we're equipped to tackle a wide array of challenges and provide top-notch guidance</p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
                                 <p class="text-base tracking-wide text-main">Read more</p>
                                 <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
@@ -154,8 +158,8 @@
           </div>
           <div class=" bg-main text-white w-1/3 relative">
             <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
-                    <h1 class="text-xl  font-semibold tracking-wider">Events</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <h1 class="text-xl  font-semibold tracking-wider">Learning</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Our program offers a diverse array of courses designed to nurture your expertise in artificial intelligence and data science. From foundational subjects to cutting-edge topics, our curriculum equips you with the knowledge and skills essential for success in this dynamic field</p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
                                 <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
                      </div>
@@ -169,8 +173,8 @@
         <div class="w-full flex flex-row">
           <div class=" w-1/3 bg-main text-white relative ">
             <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
-                    <h1 class="text-xl  font-semibold tracking-wider">Meet the class</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra eget donec...</p>
+                    <h1 class="text-xl  font-semibold tracking-wider">Meet Our Students</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">our students are driven by a sense of purpose. They are on a mission to use their knowledge and skills for the betterment of society. Their commitment to ethical and socially responsible AI and data science is the compass that guides their journey.</p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
                                 <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
                      </div>
