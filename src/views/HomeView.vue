@@ -61,7 +61,7 @@
     </section>
 
     <!-- second section -->
-    <section class=" mt-30 p-24 2xl:w-9/12 mx-auto">
+    <section class=" mt-32 p-24 2xl:w-9/12 mx-auto">
       <div class="bg-main rounded-lg flex flexwrap md:flex-nowrap md:h-96">
         <div class=" w-full md:w-1/3 h-full ">
           <div class=" md:h-3/4 flex flex-nowrap justify-center items-center -space-x-11 ">
@@ -103,7 +103,7 @@
     </section>
 
     <!-- third section -->
-    <section class=" mt-30 p-24 2xl:w-9/12 mx-auto"> 
+    <section class=" mt-32 p-24 2xl:w-9/12 mx-auto"> 
       <div class=" flex flex-col w-full ">
         <!-- first row -->
         <div class=" w-full flex flex-row bg-green-200 ">
@@ -115,13 +115,16 @@
                     <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">
                       This comprehensive program offers a deep dive into artificial intelligence and applied mathematics, equipping students to tackle complex data challenges. It emphasizes machine learning, data management, and data mining, covering Big Data, knowledge representation, and recent methodologies.
                     </p>
+                     <router-link to="/about">
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
-                                <p class="text-base tracking-wide text-main">Read more</p>
+                     
+                         <p class="text-base tracking-wide text-main">Read more</p>
                                 <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
                                     <path d="M11.7998 1L18.9998 8.53662L11.7998 16.0732" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                     <path d="M1 8.53662H19" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                                </svg>
-                            </div>
+                                </svg>  
+                            </div> 
+                          </router-link>
               </figcaption>
             </figure>
             
@@ -144,15 +147,19 @@
               <img src="@/assets/Rectangle3.png" alt="" class="w-full h-full">            
             
             <figcaption class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white  text-start">
-                    <h1 class="text-xl  font-semibold tracking-wider">Our Team</h1>
-                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Our dedicated team is composed of seasoned professionals, each bringing their unique set of skills and knowledge to the table. With diverse backgrounds in artificial intelligence, data science, and related fields, we're equipped to tackle a wide array of challenges and provide top-notch guidance</p>
-                    <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                    <h1 class="text-xl  font-semibold tracking-wider">Our Professors</h1>
+                    <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">Our dedicated team of Professors is composed of seasoned professionals, each bringing their unique set of skills and knowledge to the table. With diverse backgrounds in artificial intelligence, data science, and related fields, we're equipped to tackle the challenges and provide top-notch guidance</p>
+                    <router-link  to="/Professors">
+                      <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
+                               
                                 <p class="text-base tracking-wide text-main">Read more</p>
                                 <svg class="ml-3 lg:ml-6" xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18" fill="none">
                                     <path d="M11.7998 1L18.9998 8.53662L11.7998 16.0732" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                     <path d="M1 8.53662H19" stroke="#21AC99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
+                               
                             </div>
+                     </router-link>
               </figcaption>
              </figure>          
           </div>
@@ -173,11 +180,14 @@
         <div class="w-full flex flex-row">
           <div class=" w-1/3 bg-main text-white relative ">
             <div class="absolute px-4 lg:px-6 py-4 text-lg top-6 text-white text-start">
+              
                     <h1 class="text-xl  font-semibold tracking-wider">Meet Our Students</h1>
                     <p class=" text-sm font-light lg:text-base lg:leading-8 pr-4 tracking-wide mt-2">our students are driven by a sense of purpose. They are on a mission to use their knowledge and skills for the betterment of society. Their commitment to ethical and socially responsible AI and data science is the compass that guides their journey.</p>
                     <div class="w-full mt-2 justify-start flex items-end cursor-pointer">
-                                <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
-                     </div>
+                              <router-link to="/Class">
+                             <p class="text-base font-light tracking-wide text-white underline underline-offset-4  hover:font-normal">Read more</p>
+                         </router-link> 
+               </div>
               </div>
           </div>
           <div class=" w-2/3">
@@ -201,7 +211,7 @@
              <span class="font-semibold text-xl">Semester 1</span>
           </template>
           <template v-slot:content>
-            <ul class="max-w-md space-y-1 text-gray-500 pl-4 list-image-[url(checkmark.png)] list-inside">
+            <ul class="max-w-md space-y-1 text-gray-500 pl-4 list-inside">
               <li class="flex items-start">
   
         <span class="font-semibold text-gray-900 whitespace-pre">M116 : </span> THÉORIES ET SYSTÈMES DE RAISONNEMENTS INTELLIGENTS
@@ -259,10 +269,8 @@
 
 </li>
 
-<li class="flex items-start">
-   
+<li class="flex items-start">   
         <span class="font-semibold text-gray-900 whitespace-pre">M233 :</span> DATA SPACES & DATA INTEGRATION & SEMANTIC INTEROPERABILITY
-
 </li>
 
 <li class="flex items-start">
@@ -414,12 +422,12 @@
 </ul>
       </div>
     </section>
-    <footercomp></footercomp>
+   
 </template>
 
 <script setup >
 import accordioncomp from '../components/Accordion.vue'
-import footercomp from '../components/footer.vue'
+
 // export default {
 //   name: "CentreAlignedWithImage",
 //   methods: {

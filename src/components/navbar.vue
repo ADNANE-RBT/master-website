@@ -19,11 +19,12 @@ import { RouterLink } from 'vue-router'
         </nav>
     </div> -->
   
-<nav class=" bg-transparent flex md:absolute w-full z-10 ">
+<nav class=" bg-transparent flex md:absolute w-full z-10 top-0 ">
     <div class=" relative w-full bg-transparent ">
        <div class="max-w-screen-2xl  flex flex-wrap items-center bg-white bg-opacity-80 justify-between mx-auto px-4  shadow-md ">
- 
-        <img src="@/assets/logo.png" class="h-8 ml-2 my-2" alt="Logo" />
+         <router-link to="/">
+             <img src="@/assets/logo.png" class="h-8 ml-2 my-2" alt="Logo" />
+         </router-link>
   
     <!-- mobile screen button -->
     <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
@@ -39,13 +40,16 @@ import { RouterLink } from 'vue-router'
            <RouterLink to="/"      class="block py-2 pl-3 pr-4 rounded md:border-0 md:p-0 font-poppins text-base font-semibold leading-7 md:leading-6 tracking-widest text-main  ">Home</RouterLink>
         </li>
         <li>
-           <RouterLink to="/about" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 tracking-widest  ">Program</RouterLink>
+           <RouterLink to="/about" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 tracking-widest  ">About</RouterLink>
         </li>
         <li>
-           <RouterLink to="/about" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 ">Learning</RouterLink>
+           <RouterLink to="/Professors" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 tracking-widest  ">Professors</RouterLink>
         </li>
         <li>
-           <RouterLink to="/about" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 ">Class</RouterLink>
+           <RouterLink to="/" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 ">Learning</RouterLink>
+        </li>
+        <li>
+           <RouterLink to="/Class" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 ">Class</RouterLink>
         </li>
         <li>
            <RouterLink to="/about" class="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 text-main font-poppins text-base font-semibold leading-7 md:leading-6 ">Contact</RouterLink>

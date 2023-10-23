@@ -1,6 +1,7 @@
 <template lang="">
    
-<footer class=" w-full rounded-t-lg shadow bg-main">
+<footer class=" w-full rounded-t-lg shadow bg-main  ">
+
     <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
       <span class="text-sm text-white sm:text-center">© 2023 <a href="#" class="hover:underline"></a>. All Rights Reserved.
     </span>
