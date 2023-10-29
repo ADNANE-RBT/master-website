@@ -25,172 +25,172 @@ const people = [
   {
     name: 'Riyadi Adnane',
     role: 'Student',
-    imageUrl: '/src/assets/students/Riyadi_Adnane.png',
+    imageUrl: '/students/Riyadi_Adnane.png',
   },
   {
     name: 'Daghmoumi Marwan',
     role: 'Student',
-    imageUrl: '/src/assets/students/Daghmoumi_Marwan.png',
+    imageUrl: '/students/Daghmoumi_Marwan.png',
   },
   {
     name: 'Abdelali IBN TABET',
     role: 'Student',
-    imageUrl: '/src/assets/students/IBN TABET_ABDELALI.png',
+    imageUrl: '/students/IBN TABET_ABDELALI.png',
   },
   {
     name: 'Ahmed Samady',
     role: 'Student',
-    imageUrl: '/src/assets/students/Samady_Ahmed.png',
+    imageUrl: '/students/Samady_Ahmed.png',
   },
   {
     name: 'Aicha Kharbach',
     role: 'Student',
-    imageUrl: '/src/assets/students/Kharbach_Aicha.png',
+    imageUrl: '/students/Kharbach_Aicha.png',
   },
   {
     name: 'Aymen Boufarhi',
     role: 'Student',
-    imageUrl: '/src/assets/students/Boufarhi_Ayman.png',
+    imageUrl: '/students/Boufarhi_Ayman.png',
   },
   {
     name: 'Ismail Drief',
     role: 'Student',
-    imageUrl: '/src/assets/students/DRIEF_ISMAIL.png',
+    imageUrl: '/students/DRIEF_ISMAIL.png',
   },
   {
     name: 'Loubna El Ghazi',
     role: 'Student',
-    imageUrl: '/src/assets/students/EL_GHAZI_Loubna.png',
+    imageUrl: '/students/EL_GHAZI_Loubna.png',
   },
   {
     name: 'Mohamed Amine Sabbahi',
     role: 'Student',
-    imageUrl: '/src/assets/students/SABBAHI_Mohamed_Amine.png',
+    imageUrl: '/students/SABBAHI_Mohamed_Amine.png',
   },
   {
     name: 'Yasmina Hachhouch',
     role: 'Student',
-    imageUrl: '/src/assets/students/hachhouch_yasmina.png',
+    imageUrl: '/students/hachhouch_yasmina.png',
   },
   {
     name: 'AACHABI mohammed',
     role: 'Student',
-    imageUrl: '/src/assets/students/AACHABI_mohammed.png',
+    imageUrl: '/students/AACHABI_mohammed.png',
   },
   {
     name: 'El Meziane Chaima',
     role: 'Student',
-    imageUrl: '/src/assets/students/El_Meziane_Chaima.png',
+    imageUrl: '/students/El_Meziane_Chaima.png',
   },
   {
     name: 'fakher-eddine mohamed amine',
     role: 'Student',
-    imageUrl: '/src/assets/students/fakher-eddine_mohamed_amine.png',
+    imageUrl: '/students/fakher-eddine_mohamed_amine.png',
   },
   {
     name: 'Imasbahen khaoula',
     role: 'Student',
-    imageUrl: '/src/assets/students/Imasbahen_khaoula.png',
+    imageUrl: '/students/Imasbahen_khaoula.png',
   },
   {
     name: 'Liefrid Chihab-Eddine',
     role: 'Student',
-    imageUrl: '/src/assets/students/Liefrid_Chihab-Eddine.png',
+    imageUrl: '/students/Liefrid_Chihab-Eddine.png',
   },
   {
     name: 'Omar Nouih',
     role: 'Student',
-    imageUrl: '/src/assets/students/NOUIH_Omar.png',
+    imageUrl: '/students/NOUIH_Omar.png',
   },
   {
     name: 'Hanane Zaoui',
     role: 'Student',
-    imageUrl: '/src/assets/students/ZAOUI_Hanane.png',
+    imageUrl: '/students/ZAOUI_Hanane.png',
   },
   {
     name: 'Yasmine Zerbet',
     role: 'Student',
-    imageUrl: '/src/assets/students/ZERBET_Yasmine.png',
+    imageUrl: '/students/ZERBET_Yasmine.png',
   },
   {
     name: 'Abdelmajid Benjelloun',
     role: 'Student',
-    imageUrl: '/src/assets/students/Abdelmajid_benjelloun.png',
+    imageUrl: '/students/Abdelmajid_benjelloun.png',
   },
   {
     name: 'Aymane Mahri',
     role: 'Student',
-    imageUrl: '/src/assets/students/Mahri_Aymane.png',
+    imageUrl: '/students/Mahri_Aymane.png',
   },
   {
     name: 'Mohamed Mohidine',
     role: 'Student',
-    imageUrl: '/src/assets/students/Mohidine_mohamed.png',
+    imageUrl: '/students/Mohidine_mohamed.png',
   },
   {
     name: 'Salma Nidar',
     role: 'Student',
-    imageUrl: '/src/assets/students/nidar_salma.png',
+    imageUrl: '/students/nidar_salma.png',
   },
   {
     name: 'Nouhaila Bezzar',
     role: 'Student',
-    imageUrl: '/src/assets/students/Nouhaila_BEZZAR.png',
+    imageUrl: '/students/Nouhaila_BEZZAR.png',
   },
   {
     name: 'ARICHI_Fatima zahra',
     role: 'Student',
-    imageUrl: '/src/assets/students/ARICHI_Fatima zahra.png'
+    imageUrl: '/students/ARICHI_Fatima zahra.png'
   },
   {
     name: 'Aymen_AitAhmed',
     role: 'Student',
-    imageUrl: '/src/assets/students/Aymen_AitAhmed.png'
+    imageUrl: '/students/Aymen_AitAhmed.png'
   },
   {
     name: 'BAKKALI_AYOUB',
     role: 'Student',
-    imageUrl: '/src/assets/students/BAKKALI_AYOUB.png'
+    imageUrl: '/students/BAKKALI_AYOUB.png'
   },
   {
     name: 'chibani_fahd',
     role: 'Student',
-    imageUrl: '/src/assets/students/chibani_fahd.png'
+    imageUrl: '/students/chibani_fahd.png'
   },
   {
     name: 'Elaoufi_Imane',
     role: 'Student',
-    imageUrl: '/src/assets/students/Elaoufi_Imane.png'
+    imageUrl: '/students/Elaoufi_Imane.png'
   },
   {
     name: 'Essetti_Widad',
     role: 'Student',
-    imageUrl: '/src/assets/students/Essetti_Widad.png'
+    imageUrl: '/students/Essetti_Widad.png'
   },
   {
     name: 'Hanae_Elmrabet',
     role: 'Student',
-    imageUrl: '/src/assets/students/Hanae_Elmrabet.png'
+    imageUrl: '/students/Hanae_Elmrabet.png'
   },
   {
     name: 'Idrissi_hamza',
     role: 'Student',
-    imageUrl: '/src/assets/students/Idrissi_hamza.png'
+    imageUrl: '/students/Idrissi_hamza.png'
   },
   {
     name: 'Idriss_khattabi',
     role: 'Student',
-    imageUrl: '/src/assets/students/Idriss_khattabi.png'
+    imageUrl: '/students/Idriss_khattabi.png'
   },
   {
     name: 'KRIMEL_NOUHAILA',
     role: 'Student',
-    imageUrl: '/src/assets/students/KRIMEL_NOUHAILA.png'
+    imageUrl: '/students/KRIMEL_NOUHAILA.png'
   },
   {
     name: 'ZAOUI_Hanane',
     role: 'Student',
-    imageUrl: '/src/assets/students/ZAOUI_Hanane.png'
+    imageUrl: '/students/ZAOUI_Hanane.png'
   }
 ];
 
